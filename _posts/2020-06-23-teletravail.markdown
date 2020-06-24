@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Mon opinion sur le télétravail chez un éditeur logiciel'
+title: 'Mon opinion sur le télétravail dans une équipe de développement d'un éditeur logiciel'
 ---
 
 TL;DR
-> À mon avis pour un éditeur logiciel le télétravail permanent n'est pas adapté. Un télétravail occasionnel peut être bénéfique en fonction du contexte.
+> À mon avis pour un équipe de développement chez un éditeur logiciel le télétravail permanent n'est pas adapté. Un télétravail occasionnel peut être bénéfique en fonction du contexte.
 
 # Attention
 L'article qui suit n'expose que mon opinion. J'ai écrit cet article dans les buts suivants: 
