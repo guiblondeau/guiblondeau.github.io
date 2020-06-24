@@ -12,7 +12,6 @@ L'article qui suit n'expose que mon opinion. J'ai écrit cet article dans les bu
 * Pouvoir avoir du feedback des lecteurs pour en apprendre toujours plus
 * Permettre de partager au mieux mes connaissances
 
-
 ## Mon avis initial: _Le télétravail n'est pas efficace_
 Avant la période actuelle (COVID-19) j'avais une mauvais opinion du télétravail (permanent ou occasionnel). Pourquoi ? 
 
@@ -34,7 +33,7 @@ Pour développer cette empathie être ensemble est nécessaire:
 * Comment se rendre compte des considérations et problèmes des autres si on ne le voit pas ? 
 * Sans côtoyer la personne, comment peut-on facilement développer la confiance et l'envie de l'aider ? 
 
-Dans son livre _Les vrais leaders se servent en dernier_, Simon Sinek décrit les différentes hormones qui régissent le corps humain. L'une d'elle, l'**ocytocine**, créé "la sensation d'amitié, d'amour ou de confiance profonde, celle que nous éprouvons en compaginie d'amis très proches ou de collègues très sûrs". Sans cette ocytocine, pas de confiance, d'actes de générosité, d'empathie ou personne sur qui compter pour nous protéger. Et quel est le meilleur moyen d'en générer ? **Le temps** Si les seuls contacts, cette sécrétion sera plus difficile et la confiance aura du mal à se développer. 
+Dans son livre _Les vrais leaders se servent en dernier_, Simon Sinek décrit les différentes hormones qui régissent le corps humain. L'une d'elle, l'**ocytocine**, créé "la sensation d'amitié, d'amour ou de confiance profonde, celle que nous éprouvons en compagnie d'amis très proches ou de collègues très sûrs". Sans cette ocytocine, pas de confiance, d'actes de générosité, d'empathie ou personne sur qui compter pour nous protéger. Et quel est le meilleur moyen d'en générer ? **Le temps**. Si les seuls contacts, cette sécrétion sera plus difficile et la confiance aura du mal à se développer. 
 
 _Aparté en parlant de confiance_: Un des freins au télétravail est le manque de confiance du manager envers ses collaborateurs.
 
