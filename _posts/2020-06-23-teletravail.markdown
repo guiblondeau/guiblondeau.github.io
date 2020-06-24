@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mon opinion sur le télétravail dans une équipe de développement d'un éditeur logiciel'
+title: 'Mon opinion sur le télétravail dans une équipe de développement d''un éditeur logiciel'
 ---
 
 TL;DR
