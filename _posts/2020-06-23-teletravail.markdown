@@ -46,7 +46,7 @@ Grâce à la crise actuelle, j'ai pu mitiger mon point de vue.
 
 ### Certaines personnes sont plus efficaces chez elles
 Ce titre peut être simplissime mais peut cacher plein de raisons
-* Plus de trajet domicile-travail qui peut être fatiguant pour certains
+* Plus de trajet domicile-travail qui peut être fatiguant
 * Une meilleure adaptation au rythme personnel. Un(e) collègue est très efficace le matin mais le trajet domicile-travail se passait sur ce temps productif... 
 * La présence d'autres personnes et "l'agitation ambiante" peut fatiguer. Certaines personnes sont plus sensibles aux stimulis externes et aller au bureau leur coûte de l'énergie. Je m'en suis rendu compte en découvrant "une autre dynamique" de la part de la personne lors du télétravail.
 * Plein d'autres raisons, sûrement presque autant que de personnes...
@@ -60,6 +60,7 @@ C'est un argument souvent utilisé par les défenseurs du télétravail mais il 
 Grâce à cette période spéciale, j'ai pu mitiger mon avis sur le télétravail. Je reste sceptique quant au télétravail permanent (à titre personnel bien sûr). 
 Quant au télétravail occasionnel, je suis devenu plutôt favorable avec plusieurs avertissements:
 * Le télétravail est très utile dans les phases qui necessitent de la concentration. Je suggère d'être présent physiquement pour les phases créatives (comme certains designs).
-* Attention à garder une bonne cohésion de groupe et une empathie primordiale. Je suggère de garder des moments où tout le monde travaille ensemble et d'avoir des moments de _team-building_. 
+* Attention à garder une bonne cohésion de groupe et une empathie primordiale. Je suggère de garder des moments où tout le monde travaille ensemble et d'avoir des moments de _team-building_.
+Je préconniserai non pas un télétravail plannifié (eg: 2 jours prédéterminés par semaine) mais plutôt un télétravail prenable par la personne en fonction de ses tâches prévues (et on peut lui faire confiance pour juger :slightly_smiling_face:). 
 
 PS: Je suis preneur de feedback et vous pouvez me contacter via les liens dans le _footer_. Je mettrai à jour cet article avec l'évolution de mon avis et de mes connaissances, après tout `il n'y a que les imbéciles qui ne changent jamais d'avis` :wink:
