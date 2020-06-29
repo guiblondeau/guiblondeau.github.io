@@ -61,6 +61,7 @@ Grâce à cette période spéciale, j'ai pu mitiger mon avis sur le télétravai
 Quant au télétravail occasionnel, je suis devenu plutôt favorable avec plusieurs avertissements:
 * Le télétravail est très utile dans les phases qui necessitent de la concentration. Je suggère d'être présent physiquement pour les phases créatives (comme certains designs).
 * Attention à garder une bonne cohésion de groupe et une empathie primordiale. Je suggère de garder des moments où tout le monde travaille ensemble et d'avoir des moments de _team-building_.
+
 Je préconniserai non pas un télétravail plannifié (eg: 2 jours prédéterminés par semaine) mais plutôt un télétravail prenable par la personne en fonction de ses tâches prévues (et on peut lui faire confiance pour juger :slightly_smiling_face:). 
 
 PS: Je suis preneur de feedback et vous pouvez me contacter via les liens dans le _footer_. Je mettrai à jour cet article avec l'évolution de mon avis et de mes connaissances, après tout `il n'y a que les imbéciles qui ne changent jamais d'avis` :wink:
