@@ -5,7 +5,7 @@ tag: empowerment
 ---
 
 C'est le premier article d'une série que je ferai sur l'_empowerment_.
-Dans celui-ci, je commencerai par vous donner ma définition de __l'_empowerment_ d'une personne__ et ensuite je vous expliquerai comment je suis arrivé à cette définition.
+Je commencerai par vous donner ma définition de __l'_empowerment_ d'une personne__ et ensuite je vous expliquerai comment je suis arrivé à cette définition.
 
 ## Définition
 
