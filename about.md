@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: À propos
 permalink: /about/
 ---
 
@@ -13,4 +13,4 @@ Ce blog a pour objectif de partager mes réflexions afin:
 
 # À propos de moi
 
-Je suis passionné par le développement personnel (pour moi et les autres !) et convaincu que l'amélioration continue, le travail d'équipe, l'entraide et la focalisation sur les besoins du client sont les clés du succès. 
+Convaincu de la force de l'Humain et passionné par le développement personnel (pour moi et les autres !), je pense que l'amélioration continue, le travail d'équipe, l'entraide et la focalisation sur les besoins du client sont les clés du succès. 
