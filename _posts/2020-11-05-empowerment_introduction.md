@@ -9,7 +9,7 @@ Je commencerai par vous donner ma définition de __l'_empowerment_ d'une personn
 
 ## Définition
 
-On peut mettre tout et n'importe quoi derrière le mot _empowerment__, j'ai donc voulu donner une définition claire.
+On peut mettre tout et n'importe quoi derrière le mot _empowerment_, j'ai donc voulu donner une définition claire.
 
 > L'empowerment d'une personne est la somme de sa compétence et de sa motivation (=autonomie) dans les domaines suivants :
 > - Ses tâches quotidiennes (définies dans sa fiche de poste)
