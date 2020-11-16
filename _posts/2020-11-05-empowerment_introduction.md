@@ -41,9 +41,9 @@ On voit que les notions d'empowerment et d'autonomie sont liées.
 L'autonomie (professionnelle) est "l'aptitude à s'occuper de la résolution d'un problème dans un secteur précis."
 
 Selon Dominique Tissier dans _Management situationnel_, l'autonomie est la résultante de 3 dimensions:
-> Un savoir-faire: un certain niveau de compétence
-> Un vouloir-faire: une motivation pour faire la tâche
-> Une situation précise car on n'est pas autonome de la même façon dans toutes les situations : un chef étoilé serait-il autonome dans une tâche de développement ?
+* __Un savoir-faire__ : un certain niveau de compétence   
+* __Un vouloir-faire__ : une motivation pour faire la tâche   
+* __Une situation précise__ : on n'est pas autonome de la même façon dans toutes les situations. Par exemple, un chef étoilé serait-il autonome dans une tâche de développement web ?
 
 ### Et enfin ...
 Si on croise les définitions on obtient à un détail près ma définition d'_empowerment_. Ce détail est la `capacité à travailler et s'organiser collectivement`. Ce détail est pour moi __majeur__. Le manque de communication est l'une des causes majeures d'échec d'un projet. On ne peut pas réussir seul (même si on est très bon). Il est difficile voire impossible de réussir si chacun travaille dans son coin sans coordination. 
@@ -57,3 +57,4 @@ Je ferai d'autres articles pour expliquer entre autres :
 - Quelle doit être la position du manager pour favoriser l'_empowerment_ ? (théorie puis pratique)
 
 
+PS: Je suis preneur de feedback donc n'hésitez pas à m'envoyer un email à blog@gblondeau.com ou sur me contacter sur LinkedIn (lien dans le footer 👇).
